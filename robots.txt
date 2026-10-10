@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://riku1128-tong.github.io/deskwork-lab/sitemap.xml
